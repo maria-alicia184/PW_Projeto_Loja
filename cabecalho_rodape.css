@@ -1,0 +1,124 @@
+/*Cabeçalho*/
+.cabecalho-topo
+  {
+    margin-top: 0px;
+    width: page;
+    height: 25px;
+    background-color: #2f4f4f;
+    font-size: 12px;
+    color: #FFF;
+    text-align: center;
+  }
+  .cabecalho-topo li
+  {
+    display: inline-block;
+    margin-right: 40px;
+    font-size: 12px;
+    text-decoration: none;
+    list-style: none; 
+  }   
+  .cabecalho
+  {
+    margin-top: 0px;
+    width: 100%;
+    height: 146px;
+    background-color: #a8e6cf;
+    text-decoration: none;
+  }
+  .cabecalho #logo-img
+  {
+    width: 144px;
+    margin-left: 0%;
+  }
+  .logo
+  {
+    float: left;
+    width: 30%;
+  }
+  .menu a
+  {
+    text-decoration: none;
+    list-style: none; 
+  }
+  .menu a i
+  {
+    color: #2f4f4f;
+    margin-left: 11px;
+    display: inline-block;
+    size: 20px;
+  }
+  .menu a span
+  {
+    font-size: 12px;
+    color: #2f4f4f;
+    display: inline-block;
+  }
+  .busca
+  {
+    float: left;
+    width: 40%;
+    margin-top: 70px;
+  }
+  .busca input
+  {
+    border-radius: 3px;
+    border-color: #a8e6cf;
+    width: 500px;
+    height: 30px;
+  }
+  .busca button
+  {
+    background-color: #dcedc1;
+    border: 2px solid #dcedc1;
+    color: darkslategray;
+    font-size: 13px;
+    border-radius: 3px;
+    padding: 4px;
+  }
+  .menu
+  {
+    float: left;
+    width: 30%;
+    margin-top: 70px;
+    display: inline-block;
+    text-decoration: none;
+  }
+/*Fim do Cabeçalho*/
+
+/*Rodapé*/
+  #rodape
+  {
+    background: #2f4f4f;
+    color: #B9BABC;
+    clear: both;
+    margin-bottom: -1;
+    position: relative;
+    width: 100%;
+    height: 280px;
+    font-size: 14px;
+    text-decoration: none;
+    text-align: center;
+  }
+  #rodape li
+  {
+    text-decoration: none;
+    list-style: none; 
+  }
+  #rodape .r1, .r2
+  {
+    color: #B9BABC;
+    display: inline-block;
+    margin-top: 75px;
+    margin-left: 80px;
+  }
+  #rodape h4
+  {
+    color: #FFF;
+  }
+  #rodape .copyright
+  {
+    margin-top: 40px;
+    color: #B9BABC;
+    font-size: 12px;
+  }
+/*Fim do Rodapé*/
